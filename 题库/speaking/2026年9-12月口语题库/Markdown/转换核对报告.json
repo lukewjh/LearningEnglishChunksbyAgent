@@ -1,0 +1,46 @@
+{
+  "files": [
+    {
+      "source": "2026 年9-12月雅思口语Part1完整版（题目+答案）.pdf.pdf",
+      "sha256": "ea3ca8b87a4a669e34236c7648e114cd30a3758463471a0718c31fc39b7a36d0",
+      "pages": 136,
+      "empty_pages": [],
+      "replacement_character_pages": [],
+      "markdown": "口语Part1-题目与参考答案-逐页.md"
+    },
+    {
+      "source": "2026 年9-12月雅思口语Part2完整版（题目+答案）.pdf.pdf",
+      "sha256": "9fff6f6dda1903e09304b45693f37a36376c2ff273db1bb5e251f7b414c82f91",
+      "pages": 356,
+      "empty_pages": [],
+      "replacement_character_pages": [],
+      "markdown": "口语Part2及Part3-题目与参考答案-逐页.md"
+    },
+    {
+      "source": "2026年9-12月雅思口语完整版（纯题目）.pdf.pdf",
+      "sha256": "e790934ae30999a4b3a0ee2542f12a612ae0ffb8564f384c8a67f56fc56cd095",
+      "pages": 72,
+      "empty_pages": [],
+      "replacement_character_pages": [],
+      "markdown": "口语题库-纯题目-逐页.md"
+    }
+  ],
+  "counts": {
+    "Part1话题": 31,
+    "Part1问题": 195,
+    "Part2题卡": 54,
+    "Part3问题": 288
+  },
+  "known_source_issues": {
+    "S26-P1-R01-Q01": "原题语法疑点：缺少表示听音乐的动词；出题时注明原文并给出修正，不按错句教学。",
+    "S26-P3-N10-Q01": "原材料该条仅为陈述句，可能缺少提问部分；保留溯源，暂停选作练习题。"
+  },
+  "checks": [
+    "逐页文本完整保留",
+    "没有无归属正文",
+    "题目ID唯一",
+    "每话题问题编号连续",
+    "Part2题卡含Describe及You should say"
+  ],
+  "visual_review": "抽查纯题目第2、18、36、67页及两份答案版第3页；未逐字校对564页原文的语言质量。"
+}
